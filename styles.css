@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+    background: #FFF8DC;
+}
+
+h1 {
+    color: #800000;
+    margin-left: 40%;
+    margin-top: 20px;
+    text-shadow: 2px 2px 4px #DC143C;
+    cursor: pointer;
+    
+}
+
+div {
+    margin-left: 65px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+button {
+    margin-left:  994px;
+    margin-top: 200px;
+    border-radius: 10px;
+    height: 50px;
+    width: 170px;
+    font-weight: bold;
+    font-size: 15px;
+    background: #640000;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    box-shadow: #FA8072 3px 3px 4px;
+}
+button:hover {
+    opacity: 0.7;
+}
+
+ul {
+    line-height: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+    
+    
+
+
